@@ -35,7 +35,7 @@ color:
     - '#389DE1'
     - '#7016BE'
   brandStrength: 0
-  lightness: 0.4229391
-  saturation: 0.1412129
-  rhythmicContrast: 0.04203241
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
