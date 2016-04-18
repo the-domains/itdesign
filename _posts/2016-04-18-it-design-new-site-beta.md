@@ -5,21 +5,22 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: IT Design - New site
-datePublished: '2016-04-18T18:09:08.453Z'
-dateModified: '2016-04-18T18:08:40.675Z'
+description: IT Design - Your home Your imagination
+datePublished: '2016-04-18T18:14:23.471Z'
+dateModified: '2016-04-18T18:14:15.242Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-it-design-new-site-beta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-it-design-new-site-beta.md
-published: true
 url: it-design-new-site-beta/index.html
 _type: Article
 
 ---
-IT Design - New site
+IT Design - Your home Your imagination
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f9419e0-fb81-45d0-bede-fceda767bcfa.jpg)
