@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Your Home Your Imagination]]></title>
         <description><![CDATA[Your Home Your Imagination]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/itdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:36:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 18:41:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/itdesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/itdesign/e714ba7f-81e8-455f-b331-484a6e682b30/index.html</link>
+            <guid isPermaLink="false">e714ba7f-81e8-455f-b331-484a6e682b30</guid>
+            <pubDate>Mon, 18 Apr 2016 18:41:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/454d1dc6-db1b-4dee-8b54-b465afc6f784.jpg" alt="" title="">]]></description>
-            <link>undefined12355cff-dcc4-4fe2-9edf-643d99c68657/index.html</link>
+            <link>https://thegrid.ai/itdesign/12355cff-dcc4-4fe2-9edf-643d99c68657/index.html</link>
             <guid isPermaLink="false">12355cff-dcc4-4fe2-9edf-643d99c68657</guid>
             <pubDate>Mon, 18 Apr 2016 18:36:54 GMT</pubDate>
         </item>
