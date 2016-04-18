@@ -1,5 +1,8 @@
+name: ITDesign
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.9317636755295098
 title: IT Design Your Home Your Imagination
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1412129
-  brandStrength: 0
-  lightness: 0.4229391
   brandColors:
     - '#D8D6E2'
     - '#2F1E20'
     - '#C58F8F'
     - '#389DE1'
     - '#7016BE'
+  brandStrength: 0
+  lightness: 0.4229391
+  saturation: 0.1412129
   rhythmicContrast: 0.04203241
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: ITDesign
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9317636755295098
-layout_spectrum: 0.596510531147942
+purpose: []
